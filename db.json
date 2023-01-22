@@ -246,18 +246,7 @@
             "total_payment": 171640
         }
     ],
-    "feedback": [
-        {
-            "id": 1,
-            "body": "some comment 1",
-            "postId": 1
-        },
-        {
-            "id": 2,
-            "body": "some comment 2",
-            "postId": 1
-        }
-    ],
+   
     "profile": {
         "name": "ah584d"
     }
