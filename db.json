@@ -13,7 +13,7 @@
                     "farm_name": "Farm Name Larry",
                     "snapshot_data": [
                         {
-                            "number_of_bee_frames": "< 5",
+                            "number_of_bee_frames": "5",
                             "number_of_hives": 1443,
                             "percent_of_total_number_of_hives": 60.12,
                             "price_per_hive": 0,
